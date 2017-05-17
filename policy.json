@@ -1,0 +1,7 @@
+{
+  "very_acidic": [1,4],
+  "mildly_acidic": [5,6],
+  "neutral": [7,7],
+  "mildly_basic": [8,9],
+  "very_basic": [10,13]
+}

@@ -1,0 +1,7 @@
+{
+  "very_acidic":["perform on-site testing", "alert CDC"],
+  "mildly_acidic": ["situation normal"],
+  "neutral":["situation normal"],
+  "mildly_basic": ["situation normal"],
+  "very_basic":["perform on-site testing", "alert CDC"]
+}
